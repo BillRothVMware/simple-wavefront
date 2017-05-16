@@ -10,6 +10,10 @@ Essentially:
 
 I know its ugly. But it works.
 
+I am pretty sure I got the idea here:
+
+https://33sticks.com/analyzing-home-heating-and-cooling-data-using-nest-collecting-the-data/
+
 Bill Roth
 
 
