@@ -14,6 +14,11 @@ I am pretty sure I got the idea here:
 
 https://33sticks.com/analyzing-home-heating-and-cooling-data-using-nest-collecting-the-data/
 
+To get it working, do the following:
+1. download the 2 php files
+2. update nest-temp-cli.php with your nest login and password
+2. call php -f nest-temp-cli.php, making sure the nest.class.php can be found by the php classloader.
+
 Bill Roth
 
 
