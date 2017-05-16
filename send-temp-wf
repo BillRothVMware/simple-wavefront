@@ -1,0 +1,7 @@
+#!/bin/bash
+
+PORT=2003
+SERVER=localhost
+TEMP=`/home/bill/bin/nestc` 
+echo "local.nest.0.current_temp $TEMP `date +%s`" | nc -q0 $SERVER $PORT
+echo Nest Temp $TEMP pulled at `date` | logger
