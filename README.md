@@ -22,3 +22,4 @@ To get it working, do the following:
 Bill Roth
 
 
+You can get a free account for wavefront at http://wavefront.com/sign-up/
